@@ -6,6 +6,7 @@ In this repository you will find my proposed solution to the challenge, the main
   - Consume Dad Api Jokes from: https://icanhazdadjoke.com/api using the param Dad
   - Return error if no param is received
   - Create a C.R.U.D
+  - Test
   
 # Tools and Technologies
 
